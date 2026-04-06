@@ -1,6 +1,6 @@
 ![logo](Divyanshsisodia.png)
 <h1 align="center">Hi 👋, I'm Divyansh Sisodia</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Tech Stack from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshsisodia006-design&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshsisodia006-design" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshsisodia006-design&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshsisodia006-design" /> </p>
